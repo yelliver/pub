@@ -27,6 +27,32 @@ parent: OS Setup
 - [Microsoft Activation Scripts](https://massgrave.dev/)
 - [M0nkrus](https://w14.monkrus.ws/)
 
+## WSL
+
+### Install WSL
+
+```shell
+wsl --install
+```
+
+```shell
+wsl --list --online
+```
+
+```shell
+wsl --install -d Ubuntu
+```
+
+### Advanced Packaging Tool
+
+```shell
+sudo apt update
+```
+
+```shell
+sudo apt upgrade
+```
+
 ### User management
 
 #### Create a user

@@ -142,6 +142,7 @@ brew install --cask visual-studio-code
 #### Dev formula
 
 ```shell
+brew install awscli
 brew install ffmpeg
 brew install nvm
 ```
