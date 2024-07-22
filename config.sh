@@ -2,7 +2,7 @@
 gem install jekyll
 
 # Create jekyll project
-jekyll new jekyll --force
+jekyll new jekyll
 
 # Clean up project
 rm jekyll/*.markdown

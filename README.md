@@ -1,5 +1,9 @@
 ```shell
-jekyll new jekyll --force
+rm -rf jekyll
+```
+
+```shell
+jekyll new jekyll
 ```
 
 ```shell

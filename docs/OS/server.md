@@ -1,5 +1,6 @@
 ---
-title: Misc
+title: Server
+parent: OS Setup
 ---
 
 #### VPN Server Auto Setup Scripts
