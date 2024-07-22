@@ -11,6 +11,8 @@ rm -r jekyll/_posts
 
 # Copy docs
 cp -r docs jekyll
+mkdir -p jekyll/_includes/js
+cp custom.js jekyll/_includes/js
 
 # Enter the project
 cd jekyll

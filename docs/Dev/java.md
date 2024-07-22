@@ -53,8 +53,6 @@ sdk version
 sdk install java 21.0.3-amzn
 ```
 
-#### List
-
 ```shell
 sdk list java
 ```
@@ -87,10 +85,26 @@ java -version
 sdk install maven
 ```
 
-#### List
-
 ```shell
 sdk list maven
+```
+
+```shell
+mvn --version
+```
+
+#### Others
+
+```shell
+mvn dependency:tree
+```
+
+```shell
+mvn dependency:analyze
+```
+
+```shell
+mvn spring-boot:run
 ```
 
 ### Gradle
@@ -101,8 +115,10 @@ sdk list maven
 sdk install gradle
 ```
 
-#### List
-
 ```shell
 sdk list gradle
+```
+
+```shell
+gradle --version
 ```
