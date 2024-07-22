@@ -1,5 +1,5 @@
 ---
-title: AWS CLI
+title: AWS cli
 parent: Tools
 ---
 
