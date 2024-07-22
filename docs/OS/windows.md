@@ -18,6 +18,7 @@ parent: OS Setup
 - [Docker](https://www.docker.com/)
 - [Git](https://git-scm.com/download)
 - [IntelliJ](https://www.jetbrains.com/idea/download/)
+- [Postman](https://www.postman.com/downloads/)
 - [Rapid Environment Editor](https://www.rapidee.com/en/download)
 - [Sublime Text](https://www.sublimetext.com/download)
 
