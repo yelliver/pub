@@ -5,12 +5,14 @@ title: Windows
 ## Software
 
 - [Docker](https://www.docker.com/)
-- [IntelliJ](https://www.jetbrains.com/idea/download/)
+- [Git](https://git-scm.com/download)
 - [Gradle](https://gradle.org/releases/)
+- [IntelliJ](https://www.jetbrains.com/idea/download/)
 - [Maven](https://maven.apache.org/download.cgi)
-- [Sublime Text](https://www.sublimetext.com/download)
-- [Rapid Environment Editor](https://www.rapidee.com/en/download)
 - [OpenKey](https://open-key.org/)
+- [Rapid Environment Editor](https://www.rapidee.com/en/download)
+- [Slack](https://slack.com/downloads/)
+- [Sublime Text](https://www.sublimetext.com/download)
 
 ## Software Activators
 
