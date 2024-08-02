@@ -1,6 +1,6 @@
 ---
 title: macOS - Brew
-parent: macOS
+parent: OS Setup
 ---
 
 ### Brew

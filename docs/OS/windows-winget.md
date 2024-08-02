@@ -1,6 +1,6 @@
 ---
 title: Windows - winget
-parent: Windows
+parent: OS Setup
 ---
 
 ### winget
