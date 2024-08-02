@@ -3,25 +3,31 @@ title: NodeJS
 parent: Dev
 ---
 
-#### Init NPM project
+#### Create NPM project
 
 ```shell
 npm init -y
 ```
 
-#### Init TypeScript
+#### Create TypeScript project
 
 ```shell
 tsc --init
 ```
 
-#### Init Webpack project
+#### Create Webpack project
 
 ```shell
 npx webpack-cli init
 ```
 
-#### npm-check-updates
+#### Create React project
+
+```shell
+npx create-react-app my-app
+```
+
+#### Check dependencies update
 
 ```shell
 npm i -g npm-check-updates

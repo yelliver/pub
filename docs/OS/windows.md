@@ -28,9 +28,9 @@ parent: OS Setup
 - [Microsoft Activation Scripts](https://massgrave.dev/)
 - [M0nkrus](https://w14.monkrus.ws/)
 
-## WSL
+### WSL
 
-### Install WSL
+#### Install WSL
 
 ```shell
 wsl --install
@@ -44,16 +44,6 @@ wsl --list --online
 wsl --install -d Ubuntu
 ```
 
-### Advanced Packaging Tool
-
-```shell
-sudo apt update
-```
-
-```shell
-sudo apt upgrade
-```
-
 ### User management
 
 #### Create a user
@@ -61,9 +51,15 @@ sudo apt upgrade
 ```shell
 net user USERNAME /add
 ```
+#### Create a user with password
 
 ```shell
 net user USERNAME PASSWORD /add
+```
+#### Set password for a user
+
+```shell
+net user USERNAME PASSWORD
 ```
 
 #### Convert to a guest user
