@@ -47,7 +47,7 @@ winget upgrade --all
 winget install "Microsoft.PowerToys"
 winget install "Microsoft.Skype"
 winget install "UniKey.UniKey"
-winget install
+winget install "7zip.7zip"
 winget install
 winget install
 ```
